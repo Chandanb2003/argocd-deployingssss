@@ -8,5 +8,5 @@ spec:
     app: sample
   ports:
     - port: 80
-      targetPort: 80     # <--- match this to your containerPort
+      targetPort: 3000     
       nodePort: 30080
