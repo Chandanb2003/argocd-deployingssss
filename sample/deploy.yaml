@@ -14,7 +14,7 @@ spec:
         app: sample
     spec:
       containers:
-      - image: onyima101/youtube-clone-pipeline:latest
+      - image: chandan669/swiggy:latest
         name: sample
         ports:
         - containerPort: 80
