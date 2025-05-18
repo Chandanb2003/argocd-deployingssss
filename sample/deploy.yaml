@@ -17,4 +17,4 @@ spec:
       - image: chandan669/swiggy:latest
         name: sample
         ports:
-        - containerPort: 80
+        - containerPort: 3000
